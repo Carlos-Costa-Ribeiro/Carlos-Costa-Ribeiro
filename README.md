@@ -1,4 +1,4 @@
-### Saudações, meu nome é Carlos Daniel 🌙
+### Greetings, my name is Carlos Daniel 🌙
 
 <br>
 
