@@ -18,11 +18,11 @@
  <br>
  <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Carlos-Costa-Ribeiro&hide=stars,prs,contribs&theme=onedark&card_width=1000px)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Carlos-Costa-Ribeiro&hide=stars,prs,contribs&theme=dark&card_width=1000px)
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-Costa-Ribeiro&theme=onedark&layout=compact&card_width=1000px)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-Costa-Ribeiro&theme=dark&layout=compact&card_width=1000px)
 
 <br>
 <br>
