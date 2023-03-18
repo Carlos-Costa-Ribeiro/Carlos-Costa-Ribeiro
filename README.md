@@ -2,9 +2,15 @@
 
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Carlos-Costa-Ribeiro&hide=stars,prs,contribs&theme=onedark&card_width=500px)
+<p> Great lover of technology, and eternal seeker of knowledge, because this search motivates me to continue. <p/>
+
+<p> <i>“If future generations are to remember us more with gratitude than sorrow, we must achieve more than just the miracles of technology. We must also leave them a glimpse of the world as it was created, not just as it looked when we got through with it.”<i/> - Joseph Krutch <p/>
 
 <br>
+<br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Carlos-Costa-Ribeiro&hide=stars,prs,contribs&theme=onedark&card_width=500px)
+
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-Costa-Ribeiro&theme=onedark&layout=compact&card_width=500px)
