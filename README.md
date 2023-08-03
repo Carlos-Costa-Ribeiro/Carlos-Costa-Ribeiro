@@ -18,7 +18,6 @@
  <br>
  <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Carlos-Costa-Ribeiro&hide=stars,prs,contribs&theme=dark&card_width=1000px)
 
 <br>
 
